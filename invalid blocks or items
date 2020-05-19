@@ -1,0 +1,104 @@
+19.05 08:12:56 [Server] Netty IO #6/INFO [FML]: Client protocol version 2
+19.05 08:12:56 [Server] Netty IO #6/INFO [FML]: Client attempting to join with 138 mods : PotionExtensionCore@1.7.10-1.1.0,ForgeMicroblock@1.2.0.345,iChunUtil@4.2.2,rftools@4.23,hardcorewither@1.1.3,PortalGun@4.0.0-beta-6,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,endercore@1.7.10-0.2.0.32_beta,bspkrsCore@6.15,evilcraft@0.9.6,qmunitylib@1.0,DragonMounts@r41-1.7.10,InventoryPets@1.4.9,xreliquary@1.2,OpenComputers@1.5.22.46,chancecubes@1.7.10-2.3.2.126,McMultipart@1.2.0.345,secretroomsmod@4.7.1,lootablebodies@1.3.7,props@2.3.6.1,ExtraUtilities@1.2.12,MineFactoryReloaded|CompatForestry@1.7.10R2.8.1,achievementbooks@v1.0-MC1.7.10,ThermalFoundation@1.7.10R1.2.6,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.345,malisisdoors@1.7.10-1.13.2,headcrumbs@1.7.4,magicalcropsarmour@4.0.0_PUBLIC_BETA_4,BrandonsCore@1.0.0.12,ProjectE@1.7.10-PE1.10.1,RedstoneArsenal@1.7.10R1.1.2,CoFHCore@1.7.10R3.1.4,malisiscore@1.7.10-0.14.3,MapWriter@2.1.2,powersuits@0.11.0.300,FastCraft@1.23,Forge@10.13.4.1614,StorageDrawers@1.7.10-1.9.7,OpenComputers|Core@1.5.22.46,JABBA@1.2.1,ExtraTiC@1.4.5,AppleCore@1.3.0,DefenseTech@1.0.1,IguanaTweaksTConstruct@1.7.10-2.1.6.163,FML@7.10.99.99,Natura@2.2.0,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,customnpcs@1.7.10d,magicalcrops@4.0.0_PUBLIC_BETA_4b,worldedit@6.0-beta-01,MCA@1.7.10-5.2.2,additionalresources@0.0.2,<CoFH ASM>@000,RouterReborn@1.2.0.41,etfuturum@1.5.5,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,ThermalDynamics@1.7.10R1.2.1,libsandstone@1.0.0,fastleafdecay@1.4,Botania@r1.8-249,Hats@4.0.1,MekanismGenerators@9.1.0,NotEnoughItems@1.0.5.118,Thaumcraft@4.2.3.5,Waila@1.5.10,extracells@2.3.9,TConstruct@1.7.10-1.8.8.build988,simplyjetpacks@1.5.3,appliedenergistics2-core@rv3-beta-5,NEIAddons@1.12.14.40,BiblioCraft@1.11.5,ArchimedesShipsPlus@1.7.10-1.8,OpenModsCore@0.9.1,cookingbook@1.0.134,MCEF@0.6,ImmersiveEngineering@0.7.5,bdlib@1.9.4.109,NEIAddons|Developer@1.12.14.40,Morph@0.9.2,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,magicclover@1.7.10-0.7.4,appliedenergistics2@rv3-beta-5,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,mo@0.4.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,BetterAchievements@0.1.0,DraconicEvolution@1.0.2h,MobiusCore@1.2.5,inventorytweaks@1.59-dev-152-cf6e263,harvestcraft@1.7.10j,MobProperties@1.0.2,UtilityMobs@3.1.1,ThermalExpansion@1.7.10R4.1.5,TwilightForest@2.3.7,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,AgriCraft@1.7.10-1.5.0,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.5.1,EnderStorage@1.4.7.37,RadixCore@2.1.3,GraviGun@4.0.0-beta,magicalcropsdeco@4.0.0_PUBLIC_BETA_4a,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,MineFactoryReloaded@1.7.10R2.8.1,EnderIO@1.7.10-2.3.0.424_beta,VeinMinerModSupport@0.31.4_build.unknown,neiintegration@1.1.2,audiodeath@0.6.0_1.7.10-e8c5987,bluepower@0.2.962,IronChest@6.0.62.742,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,numina@0.4.0.131,Opis@1.2.5,VeinMiner@0.31.4_build.unknown,CodeChickenCore@1.0.7.47,BigReactors@0.4.3A,Mekanism@9.1.0,MekanismTools@9.1.0,ChickenChunks@1.3.4.19,MineTweaker3@3.0.10,NetherOres@1.7.10R2.3.1,WebDisplay@0.12,chisel@2.9.5.11,CustomPets@1.0.5,Baubles@1.0.1.10,LostBooks@1.2.2,nevermine@2.3,MovingWorld@1.7.10-1.8,witchery@0.24.1,Forestry@4.2.11.59,OpenMods@0.9.1,PTRModelLib@1.0.0,StartingInventory@1.7.10.r03
+19.05 08:12:56 [Server] Netty IO #6/INFO [FML]: Attempting connection with missing mods [] at CLIENT
+19.05 08:12:56 [Disconnect] User xMeglo has disconnected, reason: Disconnected
+19.05 08:12:56 [Server] Server thread/INFO xMeglo left the game
+19.05 08:12:56 [Server] Server thread/ERROR [FML]: FMLIndexedMessageCodec exception caught
+19.05 08:12:56 [Server] INFO java.lang.NullPointerException
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.FMLOutboundHandler$OutboundTarget$4.selectNetworks(FMLOutboundHandler.java:109) ~[FMLOutboundHandler$OutboundTarget$4.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:273) ~[FMLOutboundHandler.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.invokeWrite(DefaultChannelHandlerContext.java:644) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:698) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:637) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:115) ~[MessageToMessageEncoder.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[MessageToMessageCodec.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.invokeWrite(DefaultChannelHandlerContext.java:644) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:698) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:688) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:717) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:893) ~[DefaultChannelPipeline.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:239) ~[AbstractChannel.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:196) [SimpleNetworkWrapper.class:?]
+19.05 08:12:56 [Server] INFO 	at net.nevermine.resource.tribute.tributeHelper.setAll(tributeHelper.java:108) [tributeHelper.class:?]
+19.05 08:12:56 [Server] INFO 	at net.nevermine.event.resource.TributeTicker.onPlayerLoggedOut(TributeTicker.java:157) [TributeTicker.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_55_TributeTicker_onPlayerLoggedOut_PlayerLoggedOutEvent.invoke(.dynamic) [?:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:555) [FMLCommonHandler.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.management.ServerConfigurationManager.func_72367_e(ServerConfigurationManager.java:318) [oi.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:633) [nh.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:158) [nc.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) [MinecraftServer.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
+19.05 08:12:56 [Server] INFO 	at fastcraft.r.a(F:292) [fastcraft-1.23-entitydbg.jar:?]
+19.05 08:12:56 [Server] INFO 	at fastcraft.H.aq(F:34) [fastcraft-1.23-entitydbg.jar:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:396) [MinecraftServer.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+19.05 08:12:56 [Server] Server thread/ERROR [FML]: SimpleChannelHandlerWrapper exception
+19.05 08:12:56 [Server] INFO java.lang.NullPointerException
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.FMLOutboundHandler$OutboundTarget$4.selectNetworks(FMLOutboundHandler.java:109) ~[FMLOutboundHandler$OutboundTarget$4.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:273) ~[FMLOutboundHandler.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.invokeWrite(DefaultChannelHandlerContext.java:644) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:698) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:637) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:115) ~[MessageToMessageEncoder.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[MessageToMessageCodec.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.invokeWrite(DefaultChannelHandlerContext.java:644) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:698) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:688) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:717) ~[DefaultChannelHandlerContext.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:893) ~[DefaultChannelPipeline.class:?]
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:239) ~[AbstractChannel.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:196) [SimpleNetworkWrapper.class:?]
+19.05 08:12:56 [Server] INFO 	at net.nevermine.resource.tribute.tributeHelper.setAll(tributeHelper.java:108) [tributeHelper.class:?]
+19.05 08:12:56 [Server] INFO 	at net.nevermine.event.resource.TributeTicker.onPlayerLoggedOut(TributeTicker.java:157) [TributeTicker.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_55_TributeTicker_onPlayerLoggedOut_PlayerLoggedOutEvent.invoke(.dynamic) [?:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:555) [FMLCommonHandler.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.management.ServerConfigurationManager.func_72367_e(ServerConfigurationManager.java:318) [oi.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:633) [nh.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:158) [nc.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) [MinecraftServer.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
+19.05 08:12:56 [Server] INFO 	at fastcraft.r.a(F:292) [fastcraft-1.23-entitydbg.jar:?]
+19.05 08:12:56 [Server] INFO 	at fastcraft.H.aq(F:34) [fastcraft-1.23-entitydbg.jar:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:396) [MinecraftServer.class:?]
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+19.05 08:12:56 [Server] INFO May 19, 2020 10:12:56 AM io.netty.channel.embedded.EmbeddedChannel recordException
+19.05 08:12:56 [Server] INFO WARNING: More than one exception was raised. Will report only the first one and log others.
+19.05 08:12:56 [Server] INFO java.lang.NullPointerException
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.FMLOutboundHandler$OutboundTarget$4.selectNetworks(FMLOutboundHandler.java:109)
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:273)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.invokeWrite(DefaultChannelHandlerContext.java:644)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:698)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:637)
+19.05 08:12:56 [Server] INFO 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:115)
+19.05 08:12:56 [Server] INFO 	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.invokeWrite(DefaultChannelHandlerContext.java:644)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:698)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:688)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:717)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:893)
+19.05 08:12:56 [Server] INFO 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:239)
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendTo(SimpleNetworkWrapper.java:196)
+19.05 08:12:56 [Server] INFO 	at net.nevermine.resource.tribute.tributeHelper.setAll(tributeHelper.java:108)
+19.05 08:12:56 [Server] INFO 	at net.nevermine.event.resource.TributeTicker.onPlayerLoggedOut(TributeTicker.java:157)
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_55_TributeTicker_onPlayerLoggedOut_PlayerLoggedOutEvent.invoke(.dynamic)
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+19.05 08:12:56 [Server] INFO 	at cpw.mods.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:555)
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.management.ServerConfigurationManager.func_72367_e(ServerConfigurationManager.java:318)
+19.05 08:12:56 [Server] INFO 	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:633)
+19.05 08:12:56 [Server] INFO 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:158)
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+19.05 08:12:56 [Server] INFO 	at fastcraft.r.a(F:292)
+19.05 08:12:56 [Server] INFO 	at fastcraft.H.aq(F:34)
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:396)
+19.05 08:12:56 [Server] INFO 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+19.05 08:12:56 [Server] Server thread/INFO [ProjectE]: Removing xMeglo from scheduled timers: Player disconnected.
+
